@@ -1,0 +1,5 @@
+May 26 12:44:03 fedora sshd[1423]: Failed password for invalid user admin from 192.168.1.50 port 55322 ssh2
+May 26 12:45:10 fedora sshd[1423]: Accepted password for orucreis from 192.168.1.20 port 49812 ssh2
+May 26 12:46:01 fedora sudo: orucreis : TTY=pts/0 ; PWD=/home/orucreis ; USER=root ; COMMAND=/usr/bin/dnf update
+May 26 12:47:33 fedora sshd[1500]: Failed password for root from 203.0.113.10 port 41231 ssh2
+May 26 12:48:01 fedora systemd[1]: Started unrelated service.
